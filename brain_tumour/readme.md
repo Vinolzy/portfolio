@@ -30,17 +30,8 @@
 
 ## 报告演示视频
 
-> **Bilibili 视频链接：** 
->
-> [https://www.bilibili.com/video/BV1T98CzcEBd](https://www.bilibili.com/video/BV1T98CzcEBd)
+> **Bilibili 视频链接：** [https://www.bilibili.com/video/BV1T98CzcEBd](https://www.bilibili.com/video/BV1T98CzcEBd)
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1T98CzcEBd&page=1"  
-        scrolling="no"  
-        border="0"  
-        frameborder="no"  
-        framespacing="0"  
-        allowfullscreen="true"  
-        width="100%"  
-        height="400">  
-</iframe>
+[![演示视频](https://i1.hdslb.com/bfs/archive/fbe75afbd47d103e2b4d73255d7891f2481233d6.jpg@672w_378h_1c.webp)](https://www.bilibili.com/video/BV1T98CzcEBd)
+
 如需更多细节，请参考各 notebook 文件及项目报告。
