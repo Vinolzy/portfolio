@@ -34,4 +34,5 @@
 
 [![演示视频](https://i1.hdslb.com/bfs/archive/fbe75afbd47d103e2b4d73255d7891f2481233d6.jpg@672w_378h_1c.webp)](https://www.bilibili.com/video/BV1T98CzcEBd)
 
-如需更多细节，请参考各 notebook 文件及项目报告。
+
+更多细节可参考项目报告。
